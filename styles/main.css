@@ -2,3 +2,7 @@ body {
   background-color: rgb(233, 203, 240);
   text-align: center;
 }
+
+p {
+  font-size: 30px;
+}
