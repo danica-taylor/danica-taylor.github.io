@@ -23,9 +23,12 @@ body {
 
 p {
   text-align: left;
+  margin-top: 5pt;
+  margin-bottom: 10pt;
 }
-strong {
+.strong {
   font-size: large;
+  font-weight: bold;
 }
 #container {
   display: flex;
