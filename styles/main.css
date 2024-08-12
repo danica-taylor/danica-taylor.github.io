@@ -58,6 +58,11 @@ p {
   height: 500px;
 }
 
+.small-scale-image {
+  width: 40%;
+  height: 40%;
+}
+
 @media (max-width: 768px) {
   #item {
     flex: 1 1 100%;
