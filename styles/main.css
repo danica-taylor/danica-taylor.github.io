@@ -26,6 +26,11 @@ p {
   margin-top: 5pt;
   margin-bottom: 10pt;
 }
+.colourText {
+  color: lightcoral;
+
+}
+
 .strong {
   font-size: large;
   font-weight: bold;
